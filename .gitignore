@@ -1,0 +1,52 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# TerraQuest AI – .gitignore
+# ──────────────────────────────────────────────────────────────────────────────
+
+# User data (personal progress, observations, uploaded evidence)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+*.venv
+
+# Environment files (may contain API keys / secrets)
+.env
+.env.*
+*.env
+
+# Streamlit local config
+.streamlit/secrets.toml
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Coverage / test artefacts
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
