@@ -336,3 +336,5 @@ See `LICENSE` for details. The application code is open source. Model licensing 
 - [Qwen2.5](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct) — open-weight instruction model by Alibaba Cloud
 - [Hugging Face](https://huggingface.co) — open-weight model hosting and inference API
 - Hacktoberfest Open-Source AI Challenge organisers
+#   t e r r a q u e s t _ A I  
+ 
